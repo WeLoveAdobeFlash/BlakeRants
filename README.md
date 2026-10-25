@@ -7,7 +7,7 @@ My website, BlakeRants is now free with the CC BY-NC-SA 4.0 (Creative Commons At
 
 * **SA (ShareAlike):** If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. 
 
-So basically: you can look and play for free, but provide proper credit, don't use it for commercial gain, and if you modify it, you must share it under the same rules!
+So basically: you can look and mod shit for free, but provide proper credit, don't use it for commercial gain, and if you modify it, you must share it under the same rules!
 
 ***
 Protected by CC BY-NC-SA 4.0
