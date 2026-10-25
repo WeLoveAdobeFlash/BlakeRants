@@ -1,14 +1,13 @@
 # BlakeRants
-My website, BlakeRants is now free with the CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International) license! In stupid pee-pee poo-poo terms, this means:
+My website, BlakeRants is now free with the CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International) license! In simple terms, this means:
 
-* **BY (Look at me):** You gotta tell everyone **I made it**. Give me credit.
-* **NC (No monies):** You **cannot make money** off my stuff. No selling it. No using it at your job. Free hobbies only.
-* **SA (Pass it on):** If you take my stuff and change it, you **cannot hide it**. You must share your new version out in the open using the exact same rules. 
+* **BY (Attribution):** You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
-So basically: you can look and play for free, but don't steal my clout, don't make a dollar, and if you tweak it, you gotta share it!
+* **NC (NonCommercial):** You cannot use the material for commercial purposes or to make money.
+
+* **SA (ShareAlike):** If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. 
+
+So basically: you can look and play for free, but provide proper credit, don't use it for commercial gain, and if you modify it, you must share it under the same rules!
 
 ***
-
-[![CC BY-NC-SA 4.0](https://shields.io)](http://creativecommons.org)
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org).
+Protected by CC BY-NC-SA 4.0
